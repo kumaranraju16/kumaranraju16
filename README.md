@@ -1,208 +1,133 @@
-# 👋 Hi there, I'm Kumaran R
-
 <div align="center">
 
-### Software Engineer • AI Systems • Full Stack Developer
+# Kumaran R
 
-Building intelligent software that combines Artificial Intelligence, scalable backend systems, and modern user experiences.
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Systems+Developer;Full+Stack+Developer;Building+Production-Grade+Applications;Always+Learning+Something+New" />
+**Software Engineer · AI Systems · Full-Stack Development**
 
 </div>
 
----
+<br>
 
-# 🚀 About Me
+## Overview
 
-```java
-public class Kumaran {
+I build systems end-to-end — from model architecture to the interface someone actually clicks on. My work sits at the intersection of applied AI and production software: retrieval pipelines, verification systems, and platforms designed to hold up under real usage, not just demo conditions.
 
-    String role = "Software Engineer";
+Most recently, I've been working on dual-model architectures for document trust and verification, and on real-time collaborative infrastructure for developer tooling.
 
-    String[] interests = {
-        "Artificial Intelligence",
-        "Software Engineering",
-        "Distributed Systems",
-        "Cloud Computing",
-        "Full Stack Development"
-    };
+<br>
 
-    String currentlyBuilding = "VEXIX AI";
+## Engineering Philosophy
 
-    String currentFocus = "Building production-grade software.";
+I treat correctness and clarity as non-negotiable, and everything else as a trade-off to be made deliberately.
 
-}
-```
+- **Architecture before code.** A system's boundaries should be decided before its syntax.
+- **AI is a component, not a strategy.** Models are one part of a pipeline — the surrounding logic, validation, and data flow matter just as much.
+- **Ship what you'd defend in a design review.** If I can't explain a decision, I don't make it.
 
-I'm passionate about designing software that solves real-world problems.
+<br>
 
-I enjoy working on AI systems, scalable backend architectures, modern web applications, cloud technologies, and developer tools.
+## Current Focus
 
----
+- Designing verification pipelines that combine LLM reasoning with cryptographic guarantees
+- Real-time, sandboxed collaborative execution environments
+- Reading through distributed systems and ML systems design literature
 
-# 💼 Experience
+<br>
 
-### 🏢 Tata Consultancy Services (TCS)
+## Featured Projects
 
-**Machine Learning Intern**
+### [VEXIX AI](https://github.com/)
+**Autonomous AI Software Architect**
 
-* Developed ML solutions for healthcare prediction.
-* Worked with Python and Scikit-learn.
-* Improved model performance through feature engineering and evaluation.
+An agentic system that reasons over software architecture decisions rather than just generating code — designed to plan, structure, and scaffold projects with engineering judgment built into the loop.
+
+`Python` · `LLMs` · `Agentic Systems` · `RAG`
 
 ---
 
-### 🏢 Bosch
+### [CertiTrust](https://github.com/)
+**AI-Powered Credential Verification Engine**
 
-**IT & Data Management Trainee**
+A dual-LLM verification system that cross-validates document authenticity, backed by cryptographic hashing and a graph-enhanced ML layer for detecting tampering and inconsistency patterns that single-pass verification misses.
 
-* Worked with enterprise IT workflows.
-* Learned data management and automation practices.
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 VEXIX AI
-
-### Autonomous AI Software Architect
-
-> AI-powered engineering assistant capable of understanding repositories, planning software architecture, and assisting developers throughout the development lifecycle.
-
-**Tech**
-
-`Python`
-`LLMs`
-`React`
-`Node.js`
-`RAG`
-`Vector Database`
+`Python` · `LLMs` · `Cryptographic Hashing` · `Graph ML`
 
 ---
 
-## 🔐 CertiTrust
+### [TOX](https://github.com/)
+**Hybrid Cloud & P2P Storage Platform**
 
-### AI Credential Verification Platform
+A desktop application unifying peer-to-peer file sharing with encrypted cloud storage — built to give users control over where and how their data moves, without sacrificing sync reliability.
 
-A secure verification system using OCR, AI verification, SHA-256 hashing, and graph intelligence to detect forged or manipulated certificates.
-
-**Highlights**
-
-* OCR Pipeline
-* Dual AI Verification
-* Cryptographic Hashing
-* Graph Intelligence
-* Secure Verification Workflow
+`Node.js` · `P2P Networking` · `Encryption` · `Desktop`
 
 ---
 
-## ☁️ TOX
+### [SMEAL](https://github.com/)
+**Community Food Redistribution Platform**
 
-### Hybrid Cloud + P2P Storage Platform
+A logistics-first platform connecting surplus food sources with distribution points in real time, prioritizing routing efficiency and last-mile reliability over feature sprawl.
 
-Encrypted peer-to-peer storage platform designed for secure synchronization and distributed file sharing.
+`React` · `Node.js` · `MongoDB` · `Real-Time Systems`
 
----
+<br>
 
-## 🍱 SMEAL
+## Core Technologies
 
-### Community Food Redistribution Platform
+**Languages**
+`Java` `Python` `JavaScript` `TypeScript`
 
-Helping restaurants, NGOs, and volunteers reduce food waste through intelligent redistribution.
+**Frontend**
+`React` `Next.js` `Tailwind CSS`
 
----
+**Backend**
+`Node.js` `Express.js`
 
-# 🏆 Achievements
+**AI / ML**
+`Gemini API` `Retrieval-Augmented Generation` `OCR` `Applied Machine Learning`
 
-🏅 Smart India Hackathon — Two project submissions shortlisted for Final Evaluation
+**Data**
+`MongoDB` `PostgreSQL`
 
-🏅 VIT Hackathon — Shortlisted
+**Infrastructure**
+`Docker` `Git` `GitHub` `Vercel`
 
-🥇 Gold Medal — Abacus Competition
+<br>
 
-🎖 Hindi Proficiency — Distinction across all four levels
+## Professional Experience
 
-💃 Zee Tamil Dance Performer
+**Machine Learning Intern** — Tata Consultancy Services
+**IT & Data Management Trainee** — Bosch
 
----
+<br>
 
-# ⚡ Tech Stack
+## Achievements
 
-### Languages
+- **Smart India Hackathon** — two independent project submissions advanced to final evaluation rounds
+- **VIT Hackathon** — shortlisted
+- **Hindi Proficiency Examinations** — distinction across all four levels
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
-</p>
+<br>
 
-### Frontend
+## Open Source & Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+I'm currently going deeper into system design at scale — consensus protocols, sharding strategies, and the failure modes that only show up under load. On the open-source side, I'm interested in tooling around LLM evaluation and retrieval infrastructure, and plan to contribute as VEXIX and CertiTrust mature toward public release.
 
-### Backend
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+## GitHub Statistics
 
-### Database
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
 
-### Cloud & Tools
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode" />
-</p>
+<br>
 
----
+## Connect
 
-# 🌱 Currently Learning
-
-* Agentic AI
-* Enterprise RAG
-* Kubernetes
-* Distributed Systems
-* System Design
-* Cloud Architecture
-* Graph Databases
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://kumaranraju-portfolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kumaranraju/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kumaranraju16" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:kumaranraju16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-
-### ⭐ Thanks for visiting my profile!
-
-*"Great software isn't just written—it's thoughtfully engineered."*
+[LinkedIn](https://linkedin.com/) · [Email](mailto:) · [Portfolio](https://yourdomain.com/)
 
 </div>
