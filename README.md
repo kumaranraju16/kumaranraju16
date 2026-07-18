@@ -166,32 +166,31 @@ Helping restaurants, NGOs, and volunteers reduce food waste through intelligent 
 
 ---
 
-# 📊 GitHub Analytics
+# ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumaranraju16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaranraju16&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kumaranraju16&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumaranraju16&theme=github-compact&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🌱 Currently Learning
